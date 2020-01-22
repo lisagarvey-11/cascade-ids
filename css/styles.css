@@ -1,5 +1,5 @@
 body {
-  font-family; sans-serif;
+  font-family: sans-serif;
 }
 .intro {
   color: red;
@@ -8,10 +8,10 @@ body {
   color: purple;
 }
 
-.digital {
-  color: #000000;
+.digital p {
+  background-color: yellow;
 }
 
-.analog {
-  color: green;
+.analog p {
+  background-color: green;
 }
